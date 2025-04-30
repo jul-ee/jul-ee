@@ -1,12 +1,13 @@
-<!-- 헤더 
+<!-- 헤더
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+Jul-ee's+GitHub&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=A0A0A5&fontColor=FAFAFA&height=180&section=header&text=Thinking+in+Data+•+Acting+with+Insight&fontSize=34"/>
 </p>
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D8D3F5&height=180&section=header&text=Thinking+in+Data+•+Acting+with+Insight&fontSize=34&fontColor=4A4A4A" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=7D7F85&center=true&vCenter=true&width=700&height=40&lines=Thinking+in+Data+•+Acting+with+Insight" />
 </p>
+
 
 
 <!-- 연락처 및 소셜 뱃지 -->
@@ -27,7 +28,7 @@
 
 - Computer Science graduate from PK National University
 - Focused on data analysis for **better user experience**
-- Sharing insights through technical articles on &nbsp;[🔗jul-ee.log](https://velog.io/@jul-ee/posts)
+- Sharing insights through technical articles on &nbsp;[🔗 jul-ee.log](https://velog.io/@jul-ee/posts)
 <!--
 - On a mission to turn complex data into clear, user-centered insights
 -->
